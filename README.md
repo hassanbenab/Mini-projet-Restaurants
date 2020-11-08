@@ -24,10 +24,13 @@
 
 
 ## Setup
-
+```
 $ cd ../TP2web/serveur
 $ node serverCrudWithMongo.js
+
 $ cd ../TP2web/client
 $ serve
+
 $ cd ../TP3web/tp3
 $ npm run serve
+```
