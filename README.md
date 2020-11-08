@@ -3,7 +3,8 @@
 ## Fonctionnalités ajoutées :
 
 
-* Utilisation de composants graphiques vue-material ( table , boutons ) pour :
+* Utilisation de composants graphiques vue-material ( table , boutons ) pour : ** Chercher un resto par son nom (un msg est affiché si aucun resto à ce nom n'existe)
+
 ** Chercher un resto par son nom (un msg est affiché si aucun resto à ce nom n'existe)
 ** Voir les détails d'un resto (Bouton "Voir" qui renvoi vers le component Restaurant.vue)
 ** Supprimer un resto (Bouton "Supprimer")
