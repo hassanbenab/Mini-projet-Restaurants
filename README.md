@@ -19,3 +19,17 @@
 
 ## Ajout de l'API GmapMap pour afficher une carte et utlisation de GmapMarker pour localiser le restaurant sur la carte
 * GmapMarker qui utilise les coordonnées gps trouvées dans la base 
+
+
+
+
+## Setup
+
+$ cd ../TP2web/serveur
+$ node serverCrudWithMongo.js
+
+$ cd ../TP2web/client
+$ serve
+
+$ cd ../TP3web/tp3
+$ npm run serve
